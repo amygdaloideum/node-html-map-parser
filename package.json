@@ -1,0 +1,29 @@
+{
+  "name": "html-map-parser",
+  "version": "1.0.1",
+  "description": "Library for modifying html-strings using a map-like function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amygdaloideum/node-html-map-parser.git"
+  },
+  "keywords": [
+    "xml",
+    "html",
+    "parser",
+    "static",
+    "site"
+  ],
+  "author": "Daniel Bornstrand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amygdaloideum/node-html-map-parser/issues"
+  },
+  "homepage": "https://github.com/amygdaloideum/node-html-map-parser#readme",
+  "dependencies": {
+    "sax-wasm": "^1.3.1"
+  }
+}
